@@ -138,9 +138,11 @@ representing cart position/velocity and the angular displacement/velocity of eac
 ## ✍️ Author
 
 **Koustubh**
-M.S. Robotics, University of Maryland
-Interests: Controls, Robotics, State Estimation, Autonomous Systems
-
+M.Engg. Robotics, University of Maryland
+**Aryan Mishra**
+M.Engg, University of Maryland
+**Rachana Devarapalli**
+M.Engg. Robotics, University of Maryland
 ---
 
 ⭐ If you found this project interesting, feel free to star the repository!
