@@ -139,8 +139,10 @@ representing cart position/velocity and the angular displacement/velocity of eac
 
 **Koustubh**
 M.Engg. Robotics, University of Maryland
+
 **Aryan Mishra**
 M.Engg, University of Maryland
+
 **Rachana Devarapalli**
 M.Engg. Robotics, University of Maryland
 ---
